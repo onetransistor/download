@@ -13,6 +13,7 @@
 - [Eagle 3D ULP for Autodesk/Cadsoft EAGLE CAD](scripts/eagle3d_20110101.tar.bz2) \[22.06.2020\]
 
 ## Others
+- [Set of Eagle 3D parts images](other/eagle3d-img-20110101.tar.bz2) \[22.06.2020\]
 
 ---
 \* *All dates are upload dates \[dd.mm.yyyy\].* 
