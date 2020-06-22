@@ -13,4 +13,4 @@
 ## Others
 
 ---
-\* *All dates are upload dates.* 
+\* *All dates are upload dates \[dd.mm.yyyy\].* 
