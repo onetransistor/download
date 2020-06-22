@@ -1,6 +1,7 @@
 # Downloads
 ## PCB Projects
-- [KiCad schematic and PCB for LM317 Lithium Ion Battery Charger](kicad/liion_charger.zip) \[22.06.2020\]
+**Note:** Unless otherwise specified all designs are [KiCad](https://kicad-pcb.org/) projects.
+- [LM317 Lithium Ion Battery Charger](kicad/liion_charger.zip) \[22.06.2020\]
 
 ## Datasheets
 
