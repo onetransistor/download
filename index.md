@@ -2,8 +2,14 @@
 ## PCB Projects
 **Note:** Unless otherwise specified all designs are [KiCad](https://kicad-pcb.org/) projects.
 - [LM317 Lithium Ion Battery Charger](kicad/liion_charger.zip) \[22.06.2020\]
+- [PCB for an optical encoder used at a printer cartridge unit](kicad/optical_encoder_pcb.zip) \[08.07.2020\]
+
+## Arduino Libraries
+- [Library for HT16515 VFD Controller used in the frontpanel of a set-top-box](library/HT16515.zip) \[17.07.2020\]
 
 ## Datasheets
+- [Etek ET16315 VFD Controller](datasheet/ET16315.pdf) \[13.07.2020\]
+- [Holtek HT16515 VFD Controller](datasheet/HT16515.pdf) \[17.07.2020\]
 
 ## Software
 - [Realtek FM Radio Player for RTL2832U USB tuners](software/FMPlayer.7z) \[22.06.2020\]
