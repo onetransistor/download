@@ -6,6 +6,7 @@
 
 ## Arduino Libraries
 - [Library for HT16515 VFD Controller used in the frontpanel of a set-top-box](library/HT16515.zip) \[17.07.2020\]
+- [Library for MaxLinear MxL5007T integrated VHF-UHF tuner](library/MxL5007T.zip) \[17.07.2020\]
 
 ## Datasheets
 - [Etek ET16315 VFD Controller](datasheet/ET16315.pdf) \[13.07.2020\]
