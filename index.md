@@ -1,6 +1,6 @@
 # Downloads
 ## PCB Projects
-**Note:** Unless otherwise specified all designs are [KiCad](https://kicad-pcb.org/) projects.
+**Note:** Unless otherwise specified designs are [KiCad](https://kicad-pcb.org/) projects.
 - [LM317 Lithium Ion Battery Charger](kicad/liion_charger.zip) \[22.06.2020\]
 - [PCB for an optical encoder used at a printer cartridge unit](kicad/optical_encoder_pcb.zip) \[08.07.2020\]
 - [Microphone volumetric sensor (broken window and opened door alarm)](kicad/columetric_sensor.zip) \[03.10.2020\]
