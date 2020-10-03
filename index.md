@@ -3,6 +3,7 @@
 **Note:** Unless otherwise specified all designs are [KiCad](https://kicad-pcb.org/) projects.
 - [LM317 Lithium Ion Battery Charger](kicad/liion_charger.zip) \[22.06.2020\]
 - [PCB for an optical encoder used at a printer cartridge unit](kicad/optical_encoder_pcb.zip) \[08.07.2020\]
+- [Microphone volumetric sensor (broken window and opened door alarm)](kicad/columetric_sensor.zip) \[03.10.2020\]
 
 ## Arduino Libraries
 - [Library for HT16515 VFD Controller used in the frontpanel of a set-top-box](library/HT16515.zip) \[17.07.2020\]
