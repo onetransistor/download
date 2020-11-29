@@ -5,6 +5,7 @@
 - [PCB for an optical encoder used at a printer cartridge unit](kicad/optical_encoder_pcb.zip) \[08.07.2020\]
 - [Microphone volumetric sensor (broken window and opened door alarm)](kicad/volumetric_sensor.zip) \[03.10.2020\]
 - [LED Bargraph timer with LM3914](kicad/lm3914_timer.zip) \[23.10.2020\]
+- [Breadboard adapter for a TSOP48 8-bit bus parallel NAND Flash](kicad/nand8x_adapter.zip) \[29.11.2020\]
 
 ## Arduino Libraries
 - [Library for HT16515 VFD Controller used in the frontpanel of a set-top-box](library/HT16515.zip) \[17.07.2020\]
