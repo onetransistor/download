@@ -26,6 +26,7 @@
 
 ## Others
 - [Set of Eagle 3D parts images](other/eagle3d-img-20110101.tar.bz2) \[22.06.2020\]
+- [vserprog firmware for XTW100](other/xtw100-vserprog.bin) \[27.04.2021\]
 
 ---
 \* *All dates are upload dates \[dd.mm.yyyy\].* 
